@@ -14,19 +14,19 @@ namespace GameTOP.Lib
         //Chuta
         public string Chuta()
         {
-            return $"{_Nome} está chutando \n ";
+            return $"{_Nome} está a chutar \n ";
         }
 
         //Corre
         public string Corre()
         {
-            return $"{_Nome} está correndo \n ";
+            return $"{_Nome} está a correr \n ";
         }
 
         //Passe
         public string Passe()
         {
-            return $"{_Nome} está passando \n ";
+            return $"{_Nome} está a passar \n ";
         }
 
     }
